@@ -80,6 +80,21 @@
 					<key>requireInput</key>
 					<true/>
 				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>buttonAffirmative</key>
+					<string>Create</string>
+					<key>buttonNegative</key>
+					<string>Cancel</string>
+					<key>defaultAnswer</key>
+					<string>Client_ProjectTitle</string>
+					<key>defaultMessage</key>
+					<string>Hooray! How you want to name your project?</string>
+					<key>requireInput</key>
+					<true/>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.TextInputDialog</string>
+				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.TextInputDialog</string>
 				<key>CFBundleVersion</key>
@@ -239,6 +254,13 @@
 					<key>variableUUID</key>
 					<string>7A6B80F8-C289-4195-BA59-00C525A09CEC</string>
 				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.SetValueofVariable</string>
+					<key>variableUUID</key>
+					<string>7A6B80F8-C289-4195-BA59-00C525A09CEC</string>
+				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SetValueofVariable</string>
 				<key>CFBundleVersion</key>
@@ -361,6 +383,19 @@
 					<false/>
 					<key>promptMessage</key>
 					<string>Where you want to save the project?</string>
+				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>defaultLocation</key>
+					<string>/Users/vicenteakira/Desktop</string>
+					<key>granularity</key>
+					<integer>2</integer>
+					<key>multipleSelection</key>
+					<false/>
+					<key>promptMessage</key>
+					<string>Where you want to save the project?</string>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.AskForFinderItems</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.AskForFinderItems</string>
@@ -500,6 +535,11 @@
 				<string>Reveal Finder Items</string>
 				<key>ActionParameters</key>
 				<dict/>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.RevealFinderItems</string>
+				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RevealFinderItems</string>
 				<key>CFBundleVersion</key>
@@ -589,6 +629,13 @@
 				<string>Set Value of Variable</string>
 				<key>ActionParameters</key>
 				<dict>
+					<key>variableUUID</key>
+					<string>8825D8E2-D2E3-4FBC-9853-8B4101CD6154</string>
+				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.SetValueofVariable</string>
 					<key>variableUUID</key>
 					<string>8825D8E2-D2E3-4FBC-9853-8B4101CD6154</string>
 				</dict>
@@ -701,6 +748,13 @@
 				<dict>
 					<key>variableUUID</key>
 					<string>7A6B80F8-C289-4195-BA59-00C525A09CEC</string>
+				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>temporary items path</key>
+					<string>/var/folders/ww/61dz1yzd1rd08lb39blh0rx40000gn/T/7AFB69E2-6592-4184-A732-4713241D26F4/1/com.apple.Automator.GetValueofVariable</string>
+					<key>variableUUID</key>
+					<string>Client_ProjectTitle</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.GetValueofVariable</string>
