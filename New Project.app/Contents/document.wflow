@@ -182,7 +182,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:367.000000</string>
+				<string>370.000000:255.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Ask for Text.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -290,7 +290,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:470.000000</string>
+				<string>370.000000:358.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -454,7 +454,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:677.000000</string>
+				<string>370.000000:509.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Ask for Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -532,8 +532,6 @@
 				</array>
 				<key>arguments</key>
 				<dict/>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
@@ -643,7 +641,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:845.000000</string>
+				<string>370.000000:677.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -684,11 +682,9 @@
 				<dict>
 					<key>Container</key>
 					<string>List</string>
-					<key>Optional</key>
-					<true/>
 					<key>Types</key>
 					<array>
-						<string>com.apple.cocoa.string</string>
+						<string>*</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -753,7 +749,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:947.000000</string>
+				<string>370.000000:779.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -967,7 +963,7 @@ mkdir "$1/$2/Assets/fonts"</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>370.000000:1129.000000</string>
+				<string>370.000000:961.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -977,42 +973,42 @@ mkdir "$1/$2/Assets/fonts"</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>650907A1-99BF-4858-BA03-623EE3DB9EAC</key>
+		<key>8BE08020-3BE6-4B2B-B657-E5C87463C6F6</key>
 		<dict>
 			<key>from</key>
-			<string>76D69AFF-256B-4468-94DA-40988C4C290D - 76D69AFF-256B-4468-94DA-40988C4C290D</string>
+			<string>45DE85A2-54C5-4DB6-BC0F-E638F3F20161 - 45DE85A2-54C5-4DB6-BC0F-E638F3F20161</string>
 			<key>to</key>
-			<string>78A8A2AE-7AEC-430A-A56E-D51E9D8E500B - 78A8A2AE-7AEC-430A-A56E-D51E9D8E500B</string>
+			<string>76D69AFF-256B-4468-94DA-40988C4C290D - 76D69AFF-256B-4468-94DA-40988C4C290D</string>
 		</dict>
-		<key>7454BFF2-2242-4DDD-BFFA-76ACC6597939</key>
+		<key>8CF257B6-09FF-4ED8-8AF8-E5EC9CE60A2F</key>
 		<dict>
 			<key>from</key>
 			<string>6653E47A-B976-438D-9210-F17C2EC79992 - 6653E47A-B976-438D-9210-F17C2EC79992</string>
 			<key>to</key>
 			<string>45DE85A2-54C5-4DB6-BC0F-E638F3F20161 - 45DE85A2-54C5-4DB6-BC0F-E638F3F20161</string>
 		</dict>
-		<key>AD999BF1-F337-4820-9059-F13FC6EB78ED</key>
-		<dict>
-			<key>from</key>
-			<string>45DE85A2-54C5-4DB6-BC0F-E638F3F20161 - 45DE85A2-54C5-4DB6-BC0F-E638F3F20161</string>
-			<key>to</key>
-			<string>76D69AFF-256B-4468-94DA-40988C4C290D - 76D69AFF-256B-4468-94DA-40988C4C290D</string>
-		</dict>
-		<key>B3D8D162-181D-458D-A9C9-42D9DA1B8B9D</key>
-		<dict>
-			<key>from</key>
-			<string>60E8BE32-E369-44AF-A9C6-DA6A0B066F40 - 60E8BE32-E369-44AF-A9C6-DA6A0B066F40</string>
-			<key>to</key>
-			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
-		</dict>
-		<key>C35B9807-48C2-4423-9425-68724991E602</key>
+		<key>8DE22A42-8D74-438B-9E08-402759C3CAFB</key>
 		<dict>
 			<key>from</key>
 			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
 			<key>to</key>
 			<string>EE69C521-7332-4119-A179-804388A2A781 - EE69C521-7332-4119-A179-804388A2A781</string>
 		</dict>
-		<key>FC1A73E4-6829-47D8-897B-4288D1E470C2</key>
+		<key>8EFD7817-2979-49F2-8AAB-B310F0D29A7C</key>
+		<dict>
+			<key>from</key>
+			<string>76D69AFF-256B-4468-94DA-40988C4C290D - 76D69AFF-256B-4468-94DA-40988C4C290D</string>
+			<key>to</key>
+			<string>78A8A2AE-7AEC-430A-A56E-D51E9D8E500B - 78A8A2AE-7AEC-430A-A56E-D51E9D8E500B</string>
+		</dict>
+		<key>AEFBD1A1-B698-4268-BA0D-88E58D3EF318</key>
+		<dict>
+			<key>from</key>
+			<string>60E8BE32-E369-44AF-A9C6-DA6A0B066F40 - 60E8BE32-E369-44AF-A9C6-DA6A0B066F40</string>
+			<key>to</key>
+			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
+		</dict>
+		<key>C5C5AD45-CAC7-422C-A4BE-47207A84B731</key>
 		<dict>
 			<key>from</key>
 			<string>78A8A2AE-7AEC-430A-A56E-D51E9D8E500B - 78A8A2AE-7AEC-430A-A56E-D51E9D8E500B</string>
@@ -1052,7 +1048,7 @@ mkdir "$1/$2/Assets/fonts"</string>
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.workflow</string>
+		<string>com.apple.Automator.application</string>
 	</dict>
 </dict>
 </plist>
