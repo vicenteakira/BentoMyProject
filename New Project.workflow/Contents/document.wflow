@@ -1049,7 +1049,7 @@ cat "$file"</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>351D2973-5B69-4BDF-B0A3-427B5ED744C6</key>
+		<key>07688F76-A430-4A07-AE4F-57902C6BD486</key>
 		<dict>
 			<key>from</key>
 			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
