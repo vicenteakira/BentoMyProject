@@ -66,4 +66,19 @@ For long and complex phrases. An example could be: `00_NameOfTheFile`
 The underscore `_` is used to separate data inputs in the file name. An example could be: `00_FileName`.
 
 ### Dates
-Use it for deliveries and exports. Can be combined with file version. The format is `ddMM`. An example could be: `14June_`
+Use it for deliveries and exports. Can be combined with file version. The format is `ddMM`, using month abbreviation for shorter file names. An example could be: `14June_`.
+
+| Month     | Abbreviation  |
+|-----------|---------------|
+| January   | Jan.          |
+| February  | Feb.          |
+| March     | Mar.          |
+| April     | Apr.          |
+| May       | May           |
+| June      | Jun.          |
+| July      | Jul.          |
+| August    | Aug.          |
+| September | Sep. or Sept. |
+| October   | Oct.          |
+| November  | Nov.          |
+| December  | Dec.          |
