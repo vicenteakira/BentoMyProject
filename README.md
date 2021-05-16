@@ -1,3 +1,5 @@
+# Project Bento Box
+
 <img width="100%" alt="Screenshot 2021-05-16 at 17 54 49" src="https://user-images.githubusercontent.com/29678262/118403707-ef755000-b66f-11eb-8ff4-c2c29291d9c7.png">
 
 # About
@@ -72,7 +74,7 @@ For long and complex phrases. An example could be: `00_NameOfTheFile`
 The underscore `_` is used to separate data inputs in the file name. An example could be: `00_FileName`.
 
 ### Dates
-Use it for deliveries and exports. Can be combined with file version. The format is `ddMM`, using month abbreviation for shorter file names. An example could be: `14June_`.
+Use it for deliveries and exports. Can be combined with file version. The format is `ddMM`, using the month abbreviation for shorter file names. An example could be: `14June_`.
 
 | Month     | Abbreviation  |
 |-----------|---------------|
@@ -88,3 +90,7 @@ Use it for deliveries and exports. Can be combined with file version. The format
 | October   | Oct.          |
 | November  | Nov.          |
 | December  | Dec.          |
+
+------
+
+_The bento emoji is copyrighted under Apple's terms and conditions. This emoji is not used for commercial purposes, it just helps integrate it well with macOS_
