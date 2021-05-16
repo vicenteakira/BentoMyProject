@@ -48,7 +48,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>Hooray! How you want to name your project?</string>
+							<string>How you want to name your project?</string>
 						</array>
 					</dict>
 					<key>requireInput</key>
@@ -76,7 +76,7 @@
 					<key>defaultAnswer</key>
 					<string>Client_ProjectTitle</string>
 					<key>defaultMessage</key>
-					<string>Hooray! How you want to name your project?</string>
+					<string>How you want to name your project?</string>
 					<key>requireInput</key>
 					<true/>
 				</dict>
@@ -1049,13 +1049,6 @@ cat "$file"</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>07688F76-A430-4A07-AE4F-57902C6BD486</key>
-		<dict>
-			<key>from</key>
-			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
-			<key>to</key>
-			<string>EE69C521-7332-4119-A179-804388A2A781 - EE69C521-7332-4119-A179-804388A2A781</string>
-		</dict>
 		<key>650907A1-99BF-4858-BA03-623EE3DB9EAC</key>
 		<dict>
 			<key>from</key>
@@ -1083,6 +1076,13 @@ cat "$file"</string>
 			<string>60E8BE32-E369-44AF-A9C6-DA6A0B066F40 - 60E8BE32-E369-44AF-A9C6-DA6A0B066F40</string>
 			<key>to</key>
 			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
+		</dict>
+		<key>B5DBF3BE-CD01-409F-94C8-F8ED6598C673</key>
+		<dict>
+			<key>from</key>
+			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
+			<key>to</key>
+			<string>EE69C521-7332-4119-A179-804388A2A781 - EE69C521-7332-4119-A179-804388A2A781</string>
 		</dict>
 		<key>FC1A73E4-6829-47D8-897B-4288D1E470C2</key>
 		<dict>
