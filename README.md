@@ -12,6 +12,12 @@ Organization is key to deliver a successful project and offer a great service, s
 - Easy archival and retrieval of projects
 - Short learning curve for new collaborators
 
+## Table of contents
+- [Installation](#installation)
+- [How it works](#how-it-works)
+  * [Folder and  File Structure](#folder-and--file-structure)
+  * [File Naming](#file-naming)
+
 # Installation
 1. Download the latest release and unzip the folder
 2. Open it the first time by right-clicking the app and selecting open
