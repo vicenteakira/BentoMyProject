@@ -977,6 +977,13 @@ mkdir "$1/$2/Assets/fonts"</string>
 	</array>
 	<key>connectors</key>
 	<dict>
+		<key>410BF8EF-E0AD-4F2C-A85B-7E2143B43264</key>
+		<dict>
+			<key>from</key>
+			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
+			<key>to</key>
+			<string>EE69C521-7332-4119-A179-804388A2A781 - EE69C521-7332-4119-A179-804388A2A781</string>
+		</dict>
 		<key>650907A1-99BF-4858-BA03-623EE3DB9EAC</key>
 		<dict>
 			<key>from</key>
@@ -1004,13 +1011,6 @@ mkdir "$1/$2/Assets/fonts"</string>
 			<string>60E8BE32-E369-44AF-A9C6-DA6A0B066F40 - 60E8BE32-E369-44AF-A9C6-DA6A0B066F40</string>
 			<key>to</key>
 			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
-		</dict>
-		<key>C35B9807-48C2-4423-9425-68724991E602</key>
-		<dict>
-			<key>from</key>
-			<string>90BB3802-0551-499D-9BF6-C3F1B558EE74 - 90BB3802-0551-499D-9BF6-C3F1B558EE74</string>
-			<key>to</key>
-			<string>EE69C521-7332-4119-A179-804388A2A781 - EE69C521-7332-4119-A179-804388A2A781</string>
 		</dict>
 		<key>FC1A73E4-6829-47D8-897B-4288D1E470C2</key>
 		<dict>
