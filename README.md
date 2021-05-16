@@ -1,4 +1,4 @@
-# Project Bento Box
+# Project Bento
 
 <img width="100%" alt="Screenshot 2021-05-16 at 17 54 49" src="https://user-images.githubusercontent.com/29678262/118403707-ef755000-b66f-11eb-8ff4-c2c29291d9c7.png">
 
@@ -33,26 +33,36 @@ The combination of folder paths and naming ensures the optimal workflow. Accordi
 ## Folder and  File Structure
 The folder structure has been designed to standardize all projects, making it agile to share with other professionals and maintain a certain order. It also allows sharing specific folders with the client, maintaining the progress of the project private. Each folder is detailed below:
 
-### `00_Paperwork`
+### Folders
+
+#### `00_Paperwork`
 This folder contains, as its name indicates, all the bureaucracy of the project.
 
-### `01_Input`
+#### `01_Input`
 This folder must contain all the information and data provided by the client. All original files must be kept here.
 
-### `02_Output`
+#### `02_Output`
 This folder contains `Deliveries` and `Presentations`, both organized by date. This folder is meant to be sent and shared with the client, providing them a clean and organized deliverables without the clutter of other technical files.
 
-### `Assets`
+#### `Assets`
 This folder contains all assets organized by categories. By the fault a `fonts`, `img` and `video` folders are created.
 
-### `Files`
+#### `Files`
 This folder hosts all the files used to develop the project. Organized by apps.
 
-### `Moodboard`
+#### `Moodboard`
 All images, videos, pdf, notes... must be located here. The naming of the files in this folder, has to be the original file name, for easy finding of the source.
+
+### Files
 
 ### `README.txt`
 A text file that details new collaborators and team members to respect the structure and the importance of a tidy project. Instructs on folder structure and the standard to name files.
+
+### `brief.txt`
+The project brief by the client and its respective modifications.
+
+### `stakeholders.txt`
+This file contains all the contact information of clients and providers involved in the project.
 
 ## File Naming
 Standardizing a nomenclature system, ensures a fast retrieval of documents and avoids breaking links.
