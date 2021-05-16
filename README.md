@@ -103,4 +103,4 @@ Use it for deliveries and exports. Can be combined with file version. The format
 
 ------
 
-_The bento emoji is copyrighted under Apple's terms and conditions. This emoji is not used for commercial purposes, it just helps integrate it well with macOS_
+_The bento emoji is copyrighted under Apple's terms and conditions. This emoji is not used for commercial purposes, it just helps integrate the app well with macOS_
