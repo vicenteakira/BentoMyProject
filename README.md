@@ -22,8 +22,11 @@ Organization is key to deliver a successful project and offer a great service, s
 
 # Installation
 1. Download the latest release and unzip the folder
-2. Open it the first time by right-clicking the app and selecting open
-3. Locate the app in your docker, desktop or anywhere in finder
+2. Open it the first time by right-clicking the app and selecting open, macOS will pop up a warning sign
+<img width="372" alt="Screenshot 2021-05-17 at 10 33 30" src="https://user-images.githubusercontent.com/29678262/118459327-f0ec5a00-b6fb-11eb-9727-cd090ccd0fb0.png">
+3. Open again the app by right-clicking and selecting open, this time the OS will allow you to use the app
+<img width="372" alt="Screenshot 2021-05-17 at 10 33 39" src="https://user-images.githubusercontent.com/29678262/118459347-f6e23b00-b6fb-11eb-88c7-75c5fa3d24c2.png">
+4. Locate the app in your docker, desktop or anywhere in finder
 
 # How it works
 The app asks for the name of the project following the syntax `Client_ProjectTitle`, this helps to group all projects of the same client. Once the name is set, asks for a location to save the project. Creates the folder structure and opens the saving location.
