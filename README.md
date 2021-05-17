@@ -21,6 +21,9 @@ Organization is key to deliver a successful project and offer a great service, s
   * [File Naming](#file-naming)
 
 # Installation
+
+https://user-images.githubusercontent.com/29678262/118462875-6d346c80-b6ff-11eb-9a0d-8f916471ccf9.mp4
+
 1. Download the latest release and unzip the folder
 2. Open it the first time by right-clicking the app and selecting open, macOS will pop up a warning sign
 <img width="372" alt="Screenshot 2021-05-17 at 10 33 30" src="https://user-images.githubusercontent.com/29678262/118459327-f0ec5a00-b6fb-11eb-9727-cd090ccd0fb0.png">
